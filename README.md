@@ -1,4 +1,5 @@
-# test-repository
-This is a Test
+# My very first repo
+
+Learning Repo
 
 This is a new edit from my local computer.
